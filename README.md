@@ -5,4 +5,4 @@ Este proyecto consiste en programar una librería en C
 
 ## Manual de Usuario
 
-Puedes descargar el [Manual el subject en PDF](./libft.pdf) para obtener instrucciones detalladas sobre cómo utilizar este proyecto.
+Puedes descargar el [subject aqui](./libft.pdf) para obtener las instrucciones detalladas de como reaizar este proyecto.
